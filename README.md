@@ -1,10 +1,8 @@
 <img src="images/AppIcon.png" width="200" alt="App icon" align="left"/>
 
 <div>
-    <br />
     <h2>PastePal - Clipboard Manager</h2>
     <p>PastePal is the best universal clipboard manager for Mac, iPhone and iPad.</p>
-    <br />
     <a href="https://apps.apple.com/app/id1503446680">
         <img src="images/downloadAppStore.svg" alt="Download for macOS"/>
     </a>
@@ -30,7 +28,6 @@
 </div>
 
 <br />
-<br />
 
 <img src="images/hero.png" alt="Screenshot"/><br/>
 
@@ -45,12 +42,10 @@
 - ✅ Localization: Localized into over 20+ languages: English, French, Italian, German, Spanish, Polish, Chinese, Russian, Korean, Kurdish, Portuguese, Hungarian, Japanese, Norwegian, ...
 
 <br />
-<br />
 
 <h1>Flexible bar</h1>
 Access your most recent history at easy with a flexible and unobtrusive bar. Position it wherever you want, either top, left, bottom or right edge of the screen.
 
-<br />
 <br />
 
 <img src="images/flexibleBar.png" alt="Screenshot"/><br/>
@@ -70,7 +65,6 @@ Access your most recent history at easy with a flexible and unobtrusive bar. Pos
 - Peer Share: Even without Handoff or iCloud Sync, you can share content between PastePal apps on local network
 - Auto Plain Text: Clear rich text formatting
 
-<br />
 <br />
 
 <h1>Omniscient main view</h1>
@@ -94,7 +88,6 @@ Filter and search all your history by app, content type, collections.
 - Keyboard shortcuts: Setup your own keyboard shortcuts to maximize productivity. Toggle flexible bar, copy, delete, esc and more.
 
 <br />
-<br />
 
 <h1>Smart content type</h1>
 Recognize common content types and group them for easy access.
@@ -113,15 +106,12 @@ Recognize common content types and group them for easy access.
 - Multiple Files: Save multiple files as Quick Look and with locations. Preview multiple paths.
 
 <br />
-<br />
 
 <h1>Convenient iPhone app</h1>
 Still powerful but crafted exclusively for mobile experience
 <br />
-<br />
 <img src="images/iOSScreenshot.png" alt="Screenshot"/>
 
-<br />
 <br />
 
 - Privacy: Honor iOS 14 pasteboard privacy policy. No automatic pasteboard observation, but you can manually insert item into history.
@@ -137,7 +127,6 @@ Still powerful but crafted exclusively for mobile experience
 - Dark mode: Gorgeous light and dark mode themes.
 
 <br />
-<br />
 
 <h1>Look great on iPad</h1>
 The same Mac experience you used to love, with gorgeous sidebar and grid view.
@@ -148,12 +137,10 @@ The same Mac experience you used to love, with gorgeous sidebar and grid view.
 </div>
 
 <br />
-<br />
 
 - Any screen orientation: Adapative layout for both landscape and portrait mode.
 - Context menu: Force touch on any history item to access powerful context menu. Copy, delete, add to collection, share, and more.
 
-<br />
 <br />
 
 <h1>Credit</h1>
